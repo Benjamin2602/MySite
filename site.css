@@ -104,13 +104,13 @@ p{
 
 .top-cloud{
 	position: absolute;
-	right: 18.25em;
+	right: 18.75em;
 	top: 2.5em;
 }
 .bottom-cloud{
 	position: absolute;
-	left: 15.625em;
-	bottom: 18.25em;
+	left: 18.75em;
+	bottom: 18.75em;
 }
 
 .me{
